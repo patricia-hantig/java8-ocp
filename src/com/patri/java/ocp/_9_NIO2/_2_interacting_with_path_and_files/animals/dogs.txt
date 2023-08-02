@@ -1,0 +1,4 @@
+This is the dogs file
+Dog1
+Dog2
+All the dogs are beautiful and they care for their owners.
